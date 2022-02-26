@@ -4,7 +4,7 @@ const cliente = {
     nome:"Saulo",
     idade:36,
     cpf:"12134536543",
-    email:"saulo@email.com"
+    email:"saulo@email.com",
     fones:["5599870707","5521988743124"]
 }
 
