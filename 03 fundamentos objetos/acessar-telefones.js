@@ -5,7 +5,7 @@ const cliente = {
     idade:36,
     cpf:"12134536543",
     email:"saulo@email.com"
-    fones["5599870707","5521988743124"]
+    fones:["5599870707","5521988743124"]
 }
 
 cliente.fones.forEach(fone => console.log(fone))
